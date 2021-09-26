@@ -9,3 +9,7 @@ var bowls = 3;
 var coffeeReady = true;
 var lunchMade = true;
 var dinnerReady = false;
+
+var makeCoffee = ['water', 'coffee grounds', 'pinch of salt', 'cinnamon'];
+var makeLunch = ['bread', 'tuna', 'mayo'];
+var makeDinner = ['ground meat', 'corn', 'diced tomatoes', 'beans', 'spices'];
